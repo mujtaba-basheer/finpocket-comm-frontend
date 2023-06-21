@@ -1,0 +1,9 @@
+[Settings]
+    ID = "1a32f9e9-902d-47e6-81f4-f641a1d62222"
+
+[build]
+    base = "out/"
+    command = "npm run export"
+
+[deploy]
+    prod = true
